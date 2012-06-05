@@ -1,0 +1,3 @@
+Post anything to /:format and it will return a prettyprinted params hash.
+
+That's the whole app.
